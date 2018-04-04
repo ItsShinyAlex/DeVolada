@@ -3,7 +3,7 @@
     get_header();
 ?>
 
-    <section id="servicio-express">
+    <section id="servicio-express" class="template-section">
         <div class="contenedor">
             <div class="flex">
                 <div class="columna align-self-center">
