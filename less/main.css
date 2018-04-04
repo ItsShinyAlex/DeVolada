@@ -210,7 +210,12 @@ body > .container {
   margin: 0 auto;
 }
 #contacto btn-naranja {
-  color: #d9894d;
+  background-color: #d9894d;
+  color: white;
+}
+#contacto input[type="submit"] {
+  background-color: #d9894d;
+  color: white;
 }
 /* ==========================================================================
    RESPONSIVE MÓVIL
