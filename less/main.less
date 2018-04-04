@@ -82,23 +82,7 @@ body > .container {
     padding-top: 0;
 }
 
-.boton,
-input[type="submit"] {
-    display: inline-block;
-    padding: 15px 20px;
-    font-size: 2em;
-    font-weight: 600px;
-    transition: all 0.3s ease-in-out;
-    border: none;
-    font-weight: 600;
-    &.azul {
-        background-color: @naranja;
-        color: #fff;
-        &:hover {
-            background-color: @magenta;
-        }
-    }
-}
+
 
 .padding-100 {
     padding: 100px 0;
@@ -112,6 +96,23 @@ input[type="submit"] {
     h2 {
         text-align: center;
         font-size: 36px;
+    }
+    .boton,
+    input[type="submit"] {
+        display: inline-block;
+        padding: 15px 20px;
+        font-size: 2em;
+        font-weight: 600px;
+        transition: all 0.3s ease-in-out;
+        border: none;
+        font-weight: 600;
+        &.azul {
+            background-color: @naranja;
+            color: #fff;
+            &:hover {
+                background-color: @magenta;
+            }
+        }
     }
 }
 
