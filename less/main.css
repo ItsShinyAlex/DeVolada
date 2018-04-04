@@ -209,7 +209,7 @@ body > .container {
   display: block;
   margin: 0 auto;
 }
-#contacto btn-naranja {
+#contacto input[type="submit"] {
   background-color: #d9894d;
   color: white;
 }
