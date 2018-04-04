@@ -109,7 +109,7 @@
 
     <section id="mensajeria" class="template-section padding-50">
         <div class="contenedor">
-            <h2>MENSAJERÍA</h2>
+            <h2>BENEFICIOS DE NUESTRO SERVICIO DE MENSAJERÍA</h2>
             <div class="flex">
                 <div class="columna">
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/iconos/s-express.png" alt="camión rápido">
