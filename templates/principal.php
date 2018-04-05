@@ -145,7 +145,7 @@
     <section id="contacto" class="template-section padding-50">
         <div class="contenedor">
             <h2>Contacto</h2>
-            
+            <?php echo do_shortcode('[caldera_form id="CF5ac5031511407"]'); ?>
         </div>
     </section>
 

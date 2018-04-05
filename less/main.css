@@ -209,6 +209,10 @@ body > .container {
   display: block;
   margin: 0 auto;
 }
+#contacto input[type="submit"] {
+  background-color: #d9894d;
+  color: white;
+}
 /* ==========================================================================
    RESPONSIVE MÓVIL
    ========================================================================== */
