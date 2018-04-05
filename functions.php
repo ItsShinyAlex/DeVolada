@@ -26,5 +26,6 @@ function remove_menus(){
   remove_menu_page( 'edit.php?post_type=portfolio' );
   remove_menu_page( 'woodmart_dashboard' );  // DUMMY CONTENT
   remove_menu_page( 'edit.php?post_type=woodmart_sidebar' );
+  remove_menu_page( 'edit.php?post_type=feedback' );
 }
 add_action( 'admin_menu', 'remove_menus', '999' );
